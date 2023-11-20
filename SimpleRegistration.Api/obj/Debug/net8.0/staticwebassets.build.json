@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FnbrgKBteHEHuQeY8B9FxJzv0t48hBz8KLes+aVxd4E=",
+  "Source": "SimpleRegistration.Api",
+  "BasePath": "_content/SimpleRegistration.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
